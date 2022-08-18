@@ -1,0 +1,6 @@
+.WholeContent {
+    display: flex;
+    flex-direction: column;
+    border: ridge;
+    border-width: 10px;
+}

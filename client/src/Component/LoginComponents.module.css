@@ -1,0 +1,18 @@
+.ButtonContainer{
+    display: flexbox;
+    width: 100%;
+    justify-content: space-around;
+}
+.UsernameContainer{
+    padding-left: 55px;
+}
+.CardContainer{
+    margin: 15% auto;
+    width: fit-content;
+}
+.TypographyContainerOne{
+    padding: 15px 10px 20px 10px;
+}
+.TypographyContainerTwo{
+    padding-bottom: 15px;
+}
